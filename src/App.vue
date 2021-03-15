@@ -1,5 +1,6 @@
 <template>
   <div id="app" class="wrapper">
+    123456
     <router-view/>
     <main-tab-bar/>
   </div>
